@@ -16,11 +16,12 @@ Estou sempre estudando e desenvolvendo projetos (alguns públicos, outros privad
 
 ---
 
-## 💼 About Me
+💼 About Me
+I'm a Bachelor of Computer Science from UNIFENAS (2023), with solid experience in ERP systems such as SAP B1, SAP E-Commerce (Hybris), and Agrotis.
 
-I'm a Computer Science graduate from UNIFENAS (2023), with solid experience in ERP systems such as SAP B1, SAP E-commerce, and Agrotis. I'm currently focused on backend development, software architecture, and process automation.
+I have a strong background in backend development, focusing on modern applications using NodeJS with TypeScript, clean architecture, and systems integration.
 
-I’m constantly studying and building projects — both public and private — aiming to sharpen my technical skills and contribute meaningfully to challenging and collaborative environments.
+I'm always learning and developing projects (some public, others private), aiming to grow technically and contribute to challenging and collaborative environments.
 
 ---
 
