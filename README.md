@@ -10,9 +10,17 @@
 
 Sou **bacharel em Ciência da Computação pela UNIFENAS (2023)**, com sólida experiência em sistemas ERP como **SAP B1**, **SAP E-Commerce (Hybris)** e **Agrotis**.
 
-Possuo forte atuação no **desenvolvimento backend**, com foco em aplicações modernas utilizando **NodeJS com TypeScript**, arquitetura limpa e automação de processos.
+Possuo forte atuação no **desenvolvimento backend**, com foco em aplicações modernas utilizando **NodeJS com TypeScript**, arquitetura limpa e integração de sistemas.
 
 Estou sempre estudando e desenvolvendo projetos (alguns públicos, outros privados), com o objetivo de evoluir tecnicamente e contribuir em ambientes desafiadores e colaborativos.
+
+---
+
+## 💼 About Me
+
+I'm a Computer Science graduate from UNIFENAS (2023), with solid experience in ERP systems such as SAP B1, SAP E-commerce, and Agrotis. I'm currently focused on backend development, software architecture, and process automation.
+
+I’m constantly studying and building projects — both public and private — aiming to sharpen my technical skills and contribute meaningfully to challenging and collaborative environments.
 
 ---
 
@@ -32,14 +40,16 @@ Estou sempre estudando e desenvolvendo projetos (alguns públicos, outros privad
 
 </div>
 
-### 🧠 Conhecimentos e Práticas
 
-- Arquitetura Limpa (Clean Architecture)  
-- Domain-Driven Design (DDD)  
-- CI/CD com GitHub Actions  
-- Testes Unitários e de Integração (Jest, Vitest)  
-- ORM Prisma  
-- Frameworks: **Fastify**, **NestJS**, **React Native**, **React**
+🧪 **Experiência com:** Clean Architecture • DDD • CI/CD • Testes Unitários e de Integração  
+🧰 **Frameworks & ferramentas:** Fastify • NestJS • Prisma • Sequelize • React Native • Vitest
+
+---
+
+## 🛠️ Technologies & Tools
+
+🧪 **Experience with:** Clean Architecture • DDD • CI/CD • Unit and Integration Testing  
+🧰 **Frameworks & tools:** Fastify • NestJS • Prisma • Sequelize • React Native • Vitest
 
 ---
 
@@ -54,21 +64,45 @@ Estou sempre estudando e desenvolvendo projetos (alguns públicos, outros privad
 
 ### 🔐 Projeto Pessoal (privado)
 
-> Sistema completo em desenvolvimento, focado em arquitetura moderna, escalabilidade e boas práticas.
+> Estou desenvolvendo um sistema completo com foco em boas práticas de arquitetura e qualidade de código. Algumas das principais características:
 
 **Stack e Arquitetura:**
-- NodeJS + TypeScript
-- Fastify + Prisma
-- Clean Architecture + DDD
-- Testes com Vitest (unitários e integração)
-- JWT + Autenticação via Google
-- Upload de imagens via Cloudflare R2
+- Backend com **NodeJS + TypeScript**
+- Arquitetura baseada em **DDD + Clean Architecture**
+- **Fastify** como framework principal
+- ORM: **Prisma**
+- Testes **unitários e de integração** com **Vitest**
+- Padrão: **Domain → Use Case → Repository**
+- Autenticação JWT + Login com Google
+- Upload de imagens para **Cloudflare**
 
 **Front-end:**
 - React moderno com consumo das APIs backend
 - Estilização leve e responsiva
 
 📌 *Este projeto ainda é privado, mas posso apresentar em entrevistas técnicas ou sob demanda.*
+
+---
+
+## 🔐 Private Project
+
+I’m working on a complete system designed with best architecture practices and code quality in mind. Key features include:
+
+**Stack & Architecture:**
+- Backend: **NodeJS + TypeScript**
+- Architecture: **DDD + Clean Architecture**
+- Framework: **Fastify**
+- ORM: **Prisma**
+- **Unit and Integration tests** with **Vitest**
+- Pattern: **Domain → Use Case → Repository**
+- JWT Authentication + Google Login
+- Image uploads using **Cloudflare**
+
+**Front-end:**
+- Modern React with API consumption
+- Lightweight and responsive styling
+
+📌 *If you'd like to learn more about this project, I’d be happy to present it in interviews or upon request.* 
 
 ---
 
